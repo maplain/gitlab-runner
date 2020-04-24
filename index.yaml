@@ -3,9 +3,9 @@ entries:
   gitlab-runner:
   - apiVersion: v1
     appVersion: bleeding
-    created: "2020-04-23T18:45:36.201124-07:00"
+    created: "2020-04-23T20:34:26.631448-07:00"
     description: GitLab Runner
-    digest: 15360a8c47bd64ebe5be9d1672928afa217eaa32be1e8a0d8c81d2a9ae2578c1
+    digest: a8829040ff04a8c03fa3d105dbc7188ed46f3e84e8dcc99b6d1c3ebfdc99304c
     icon: https://gitlab.com/uploads/-/system/project/avatar/250833/runner_logo.png
     keywords:
     - git
@@ -19,6 +19,6 @@ entries:
     - https://hub.docker.com/r/gitlab/gitlab-runner/
     - https://docs.gitlab.com/runner/
     urls:
-    - https://maplain.github.io/gitlab-runner/gitlab-runner-0.17.0-beta.tgz
-    version: 0.17.0-beta
-generated: "2020-04-23T18:45:36.19856-07:00"
+    - https://maplain.github.io/gitlab-runner/gitlab-runner-0.17.2-beta.tgz
+    version: 0.17.2-beta
+generated: "2020-04-23T20:34:26.628377-07:00"
